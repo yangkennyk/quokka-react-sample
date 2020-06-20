@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wallabyjs/quokka-react-sample#readme",
   "dependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.10.1",
     "ky": "^0.20.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
@@ -29,6 +30,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "jsdom-quokka-plugin": "^1.0.0"
   }
 }
